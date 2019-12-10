@@ -41,3 +41,8 @@ Date  | Checkpoint
 1/13  | Second code checkpoint
 1/17  | Third code checkpoint
 1/23  | Exams Begin. All code and documentation due
+
+## Links
+
+* [Documentation](documentation.md)
+* [Resources](resources.md)
