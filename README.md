@@ -48,3 +48,4 @@ Date  | Checkpoint
 
 * [Documentation](documentation.md)
 * [Resources](resources.md)
+* [Home Setup Guide](setupguide.md)
