@@ -49,7 +49,7 @@ while True:
         p.show()
         p.check_bottom()
     
-    for i in range(len(particles)):
+    for i in range(len(particles)-1, -1, -1):
         if not particles[i].is_here:
             del particles[i]
 
